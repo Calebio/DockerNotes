@@ -1,9 +1,9 @@
 # DockerNotes
 
 **VIDEO:** https://www.youtube.com/watch?v=3c-iBn73dDE&t=9814s </br>
-NOTE: The demo in this video tutorial was done with older versions of mongodb image and mongo-express image
-=> mongodb:4.2.1
-=> mongo-express:0.49
+NOTE: The demo in this video tutorial was done with older versions of mongodb image and mongo-express image </br>
+=> mongodb:4.2.1 </br>
+=> mongo-express:0.49</br>
 
 
 Docker Notes
